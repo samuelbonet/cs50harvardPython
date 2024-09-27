@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-Este repositorio contiene las soluciones, ejercicios del track de **Python** del curso [CS50 de Harvard](https://cs50.harvard.edu/python/202), ofrecido por la Universidad de Harvard.
+Este repositorio contiene las soluciones, ejercicios del track de **Python** del curso [CS50 de Harvard](https://cs50.harvard.edu/python/2022), ofrecido por la Universidad de Harvard.
 
 ## Contribuciones
 
