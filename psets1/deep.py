@@ -1,8 +1,6 @@
-phrase= input("What is the Answer to the Great Question of Life, the Universe, and Everything? ")
+phrase= input("What is the Answer to the Great Question of Life, the Universe, and Everything? ").strip()
 
-if phrase=="42":
-    print("Yes")
-elif phrase=="Forty Two":
+if phrase in ["42", "Forty Two"]:
     print("Yes")
 elif phrase=="forty-two":
     print("Yes")
